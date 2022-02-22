@@ -1,0 +1,2 @@
+# YahooJapanKyoshinColorMap
+ヤフーの強震モニタのカラーマッピング表
